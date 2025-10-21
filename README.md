@@ -1,4 +1,4 @@
-# simple-firebase
+# simple-firebase — React + TypeScript Starter with Firebase Auth
 
 A minimal, production-ready starter for React + TypeScript + Vite + Tailwind + Firebase Authentication. Clean architecture and clear examples make this repository ideal for demos, prototypes, or production bootstraps.
 
@@ -92,7 +92,7 @@ Fork the repo and open a pull request with clear changelog and small commits.
 Keep components small and typed. Maintain the existing linting and formatting rules.
 For new features, add a small demo page under src/component/ and register it in the router (src/main.tsx).
 
-### Appendix — Useful links in this repo
+#### Appendix — Useful links in this repo
 
 Entry point: src/main.tsx
 Main layout: Main
@@ -101,7 +101,3 @@ UI: Header
 Firebase instance: auth
 Types: UserProfile, AuthContextType
 Configs: vite.config.ts, tsconfig.json, tailwind.config.js, .eslintrc.cjs
-
-### License
-
-ISC (see package.json)
