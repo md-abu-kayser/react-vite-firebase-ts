@@ -1,4 +1,4 @@
-# React Firebase Starter with TypesScript
+# React Firebase Auth Starter - TypeScript + Vite + Tailwind
 
 A minimal, production-ready starter for React + TypeScript + Vite + Tailwind + Firebase Authentication. Clean architecture and clear examples make this repository ideal for demos, prototypes, or production bootstraps.
 
