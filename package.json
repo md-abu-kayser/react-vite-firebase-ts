@@ -1,5 +1,5 @@
 {
-  "name": "simple-firebase",
+  "name": "react-vite-firebase-ts",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -38,13 +38,13 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kawser420/simple-firebase.git"
+    "url": "git+https://github.com/md-abu-kayser/react-vite-firebase-ts.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kawser420/simple-firebase/issues"
+    "url": "https://github.com/md-abu-kayser/react-vite-firebase-ts/issues"
   },
-  "homepage": "https://github.com/Kawser420/simple-firebase#readme"
+  "homepage": "https://github.com/md-abu-kayser/react-vite-firebase-ts#readme"
 }
