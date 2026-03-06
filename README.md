@@ -1,5 +1,59 @@
 # React Firebase Auth Starter - TypeScript + Vite + Tailwind
 
+<!-- MIT License -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
+<!-- HTML & CSS -->
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+<!-- Styling / PostCSS -->
+
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs/)
+
+<!-- Languages & Web Standards -->
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+
+<!-- Infra & Runtime -->
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+
+<!-- Auth & Security -->
+
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs)
+
+<!-- Linting & Formatting -->
+
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
+[![Prettier](https://img.shields.io/badge/Prettier-2B3A42?logo=prettier&logoColor=white)](https://prettier.io/docs/)
+
+<!-- Bundler -->
+
+[![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)](https://vite.dev/)
+
+## Plain docs links
+
+- HTML (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- CSS (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Tailwind CSS docs: [https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
+- JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- Node.js docs: [https://nodejs.org/](https://nodejs.org/)
+- React docs: [https://react.dev/](https://react.dev/)
+- Firebase docs: [https://firebase.google.com/docs](https://firebase.google.com/docs)
+- ESLint docs: [https://eslint.org/docs/latest/](https://eslint.org/docs/latest/)
+- Prettier docs: [https://prettier.io/docs/](https://prettier.io/docs/)
+- Vite docs: [https://vite.dev/](https://vite.dev/)
+
+---
+
 A minimal, production-ready starter for React + TypeScript + Vite + Tailwind + Firebase Authentication. Clean architecture and clear examples make this repository ideal for demos, prototypes, or production bootstraps.
 
 ## Key highlights:
@@ -123,16 +177,16 @@ npm run dev
 
 ---
 
-### Contact and Maintainer
+### Contact & Maintainer
 
 - **Project:** _react-vite-firebase-ts_
 - **Name:** Md Abu Kayser - Full-Stack Engineer
 - **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
-- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
----
+ **Thank you for reviewing this project!**
 
-## **Thank you for reviewing this project!**
+ ---
